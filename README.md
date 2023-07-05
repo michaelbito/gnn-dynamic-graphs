@@ -1,3 +1,4 @@
-This is a test.
+# Beyond Static Graphs: Understanding Graph Neural Networks and Homophily in Dynamic Node Classification
 
-This is a test 2.
+## Reproducibility
+This github contains the code used in the paper "Beyond Static Graphs: Understanding Graph Neural Networks and Homophily in Dynamic Node Classification".
